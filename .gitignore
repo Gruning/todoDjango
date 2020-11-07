@@ -2,5 +2,10 @@
 *.pot
 *.pyc
 __pycache__/
+todo/__pycache__/
+todoDjango/__pycache__/
+todoDjango/migrations/__pycache__/
+
+
 local_settings.py
 /static/
